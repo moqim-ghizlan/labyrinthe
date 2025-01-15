@@ -1,10 +1,3 @@
----
-noteId: "8286a790d37211ef929c4df56dd436aa"
-tags: []
-
----
-
-
 # Projet GR11A - Documentation
 
 ## Description du projet
